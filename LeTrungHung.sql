@@ -275,7 +275,7 @@ WHERE
 				ORDER BY
 					COUNT(lr.res_id)
 					DESC
-				LIMIT 5) AS res_rate_top);
+				LIMIT 2) AS res_rate_top);
 
 -- Bài tập 3
 
